@@ -204,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600020334165</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Map intent">
+      <created>1600020904371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600020904371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created Map intent">
+      <created>1600021111108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600021111108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,13 +235,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Added explicit intent to start infoactivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added explicit intent to start infoactivity" />
+    <MESSAGE value="Created Map intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Map intent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="54" key="CommitChangelistDialog2" timestamp="1600020903184">
+    <state x="208" y="54" key="CommitChangelistDialog2" timestamp="1600021109974">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="208" y="54" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1600020903184" />
+    <state x="208" y="54" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1600021109974" />
     <state width="1394" height="241" key="GridCell.Tab.0.bottom" timestamp="1600021105260">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -244,9 +259,9 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1394" height="241" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1600021105260" />
-    <state x="313" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600020339432">
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600021119021">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="313" y="194" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1600020339432" />
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1600021119021" />
   </component>
 </project>
